@@ -3,7 +3,7 @@
 # datetime:2020/6/24 13:59
 # software: PyCharm
 
-from start import *
+from Basic.appstart import *
 """
 文件说明：WMS登录
 """

@@ -6,7 +6,7 @@
 """
 文件说明：单个拣货
 """
-from login import *
+from Pick.login import *
 """
 文件说明：进入拣货
 """
